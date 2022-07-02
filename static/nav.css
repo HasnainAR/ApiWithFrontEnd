@@ -1,0 +1,83 @@
+body{
+    background-image: url(homebanner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+  
+  }
+  img.img-fluid.rounded-circle.mb-3.img-thumbnail.shadow-sm {
+    display: none;
+  }
+  
+  .logo{
+    width: 40%;
+  }
+  .nav-link {
+    color: White !important;
+    font-weight: 900 !important;
+    }
+  .color-me-btn{
+    border-color: white !important;
+    border-style:solid;
+    border-width: 3px !important;
+    border-radius: 10px !important;
+    color: white !important;
+    font-size:large !important;
+    font-weight: 600 !important;
+  }
+  .btn-default2
+  
+  {
+  background-color: white !important;
+  color:black!important;
+  }
+  .logonav{
+    width: 56%;
+   
+  
+  }
+  
+  .btn-default1:hover{
+  background-color:transparent;
+  
+  
+  
+  }
+  .pos{
+    margin-left: auto;
+  }
+  .possign{
+    margin-inline-end: auto;
+  }
+  .Diamond{
+    margin-top: 21%;
+  }
+  .Video-Call{
+    color: white;
+    font-size: 450%;
+    font-weight: 900;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+  .Video-Call2{
+    color:white;
+    font-size: 20px;
+  }
+  .Get-Started{
+    width: 300px !important;
+    background-color:orange !important;
+    transition: transform .5s;
+  }
+  .Get-Started:hover{
+    background-color:transparent !important; 
+    
+    transform: scale(1.1);
+    
+    
+     
+    
+     
+    }
+  
+  
